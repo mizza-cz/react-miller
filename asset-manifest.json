@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-miller/static/css/main.0e10f789.css",
+    "main.js": "/react-miller/static/js/main.449114d2.js",
+    "static/media/blog2.jpg": "/react-miller/static/media/blog2.f8b7ae93532c07e53ec9.jpg",
+    "static/media/profile-img.png": "/react-miller/static/media/profile-img.bbedb94888335b2c90f8.png",
+    "static/media/blog3.jpg": "/react-miller/static/media/blog3.35181cf64ae0fded40a3.jpg",
+    "static/media/project2.jpg": "/react-miller/static/media/project2.0dfdb478a2db20f08cf8.jpg",
+    "static/media/blog1.jpg": "/react-miller/static/media/blog1.8dddd5295f012d9b38ef.jpg",
+    "static/media/Zoe-Cv.pdf": "/react-miller/static/media/Zoe-Cv.ee9cb138cd1400da142c.pdf",
+    "static/media/project5.jpg": "/react-miller/static/media/project5.f6885d316197f5d72029.jpg",
+    "static/media/project6.jpg": "/react-miller/static/media/project6.f4df07761e8241c83a94.jpg",
+    "static/media/project4.jpeg": "/react-miller/static/media/project4.5bc2687cdb426a57c84c.jpeg",
+    "static/media/project3.jpeg": "/react-miller/static/media/project3.5ae83458f56a1d1d3163.jpeg",
+    "static/media/testimonial4.jpg": "/react-miller/static/media/testimonial4.2296f37ed6eca7f3fe31.jpg",
+    "static/media/testimonial3.jpg": "/react-miller/static/media/testimonial3.02fce6a4237d2640fae2.jpg",
+    "static/media/project1.jpeg": "/react-miller/static/media/project1.fa7bcd15ca2c6d433163.jpeg",
+    "static/media/testimonial5.jpg": "/react-miller/static/media/testimonial5.0b0b560f5dba55981e2a.jpg",
+    "static/media/testimonial2.jpg": "/react-miller/static/media/testimonial2.fcf2f56a751d02c10736.jpg",
+    "static/media/testimonial1.jpg": "/react-miller/static/media/testimonial1.de869147145b5c04238c.jpg",
+    "static/media/shape-1.png": "/react-miller/static/media/shape-1.25e4d49076a6fd169b83.png",
+    "static/media/testimonials-icon.svg": "/react-miller/static/media/testimonials-icon.871ade6fb9d839c4d46e35d1c84a5bd1.svg",
+    "index.html": "/react-miller/index.html",
+    "main.0e10f789.css.map": "/react-miller/static/css/main.0e10f789.css.map",
+    "main.449114d2.js.map": "/react-miller/static/js/main.449114d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e10f789.css",
+    "static/js/main.449114d2.js"
+  ]
+}
